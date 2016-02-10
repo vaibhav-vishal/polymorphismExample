@@ -11,7 +11,7 @@ public class Application {
 	public static void main(String[] args) {
 		Showroom_b showRoom = new Showroom_b();
 		Automobile polyAuto=null;
-		//System.out.println("Select type  \n1.Passenger 2.Luxary 3.Sports 4.Bike");
+		//System.out.println("Select type  \n1.Passenger 2.Luxury 3.Sports 4.Bike");
 		//Scanner sc= new Scanner(System.in);
 		//int key=sc.nextInt();
 

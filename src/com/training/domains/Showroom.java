@@ -22,7 +22,7 @@ public class Showroom {
 		
 	/**
 	 * @param	polyAuto takes objects
-	 * prints quotaion of product selected
+	 * prints quotation of product selected
 	 */
 		
 		
